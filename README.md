@@ -2,47 +2,32 @@
 
 ### Innovate. Automate. Dominate.
 
-**Software engineer · Infrastructure operator · Marketer · Founder**
+**Engineer. Entrepreneur. Builder. Always experimenting.**
 
-I look for useful work that can be automated—and build the systems to do it. AI excites me because, applied well, it can change the economics of a problem: what used to be too slow or expensive can become practical.
+I've been building things for the web since 1995, and I'm still just as fascinated by technology as I was back then. What drives me is simple: finding a better way to do something, building it, and seeing it make a real difference.
 
-I experiment constantly with custom agent harnesses, integrations, tools, and products. I love exploring what the technology can do, and I judge the results by what they accomplish, how reliably they work, and what they cost to run.
+Today, I run **[Crux Experts LLC](https://www.cruxexperts.com/)**, where we help businesses grow through custom software, modern websites, search visibility, digital marketing, and practical automation. We don't just advise. We build, implement, manage, and work directly with our clients to deliver results.
 
-## Building the systems around AI
+**AI is a game changer, but only when it solves real problems.**
 
-I combine model strengths with predictable software. My custom harnesses connect models to the tools, context, and actions a task needs.
+I spend a lot of time experimenting with evolving AI models, building custom agent harnesses, developing open source tools, and figuring out how to make these technologies genuinely useful. The sweet spot is combining intelligent models with dependable software, the right context, and good engineering.
 
-My focus is **the right context at the right time**: relevant evidence, concise guidance, and a way to check the result. I keep sources and decisions traceable so useful knowledge carries forward.
+Some experiments become products. Others teach me something new. That's how we stay ahead in a field that's changing almost daily.
 
-As models evolve, I revisit the tools and guidance around them. I test assumptions, keep what works, and rebuild what no longer fits. There is plenty left to figure out, and that is what makes this exciting.
+### A little history
 
-**Working at the frontier means helping define what works.** I want to shape those practices by building things people can use.
+I started in commercial web development, worked on industrial software, and eventually founded **iHost ASP / IHOST, LLC**. What began in my bedroom grew into a hosting business serving more than **62,000 domains**, with infrastructure across two data centers. I operated it for nine years before selling the company.
 
-## What I'm building
+A few snapshots from those years:
 
-- **[LocalSetup](https://github.com/CruxExperts/LocalSetup)** — Durable project context, engineering standards, reusable skills, and workflows for AI coding agents.
-- **[OMP OmniRoute Provider](https://github.com/CruxExperts/OMP-OmniRoute-Provider)** — Connects Oh My Pi to an existing OmniRoute gateway, with guided setup and live model discovery.
-- **[Envman](https://github.com/CruxExperts/EnvMan)** — Encrypted local environment management for terminals and scripts, with import previews and portable backups.
-- **[bbackup / BestBackup](https://github.com/CruxExperts/BestBackup)** — Encrypted Linux file and selected database backups, verified file restores, and observable scheduled jobs.
+[2008: IHOST at OpenForce in Las Vegas](https://www.dnnsoftware.com/community-blog/cid/136681/of-08-a-valuable-opportunity) · [2013: IHOST and SmarterTools partnership](https://www.prweb.com/releases/ihost_llc_partners_with_smarter_tools/prweb11157484.htm) · [2015: HostedAppliance product launch](https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/secure-e-mail-service-that-is-private-and-encrypted-is-launched-by-428440)
 
-## Experience behind the experiments
+### What I'm building now
 
-I started building commercial websites in **1995**. My background spans search marketing, corporate intranets, and industrial measurement software, including work at **Mazzella Lifting Technologies**.
+My open source projects include **[LocalSetup](https://github.com/CruxExperts/LocalSetup)**, **[OMP OmniRoute Provider](https://github.com/CruxExperts/OMP-OmniRoute-Provider)**, **[Envman](https://github.com/CruxExperts/EnvMan)**, and **[bbackup](https://github.com/CruxExperts/BestBackup)**.
 
-I founded **iHost ASP / IHOST, LLC** in my bedroom, specializing first in ASP and then ASP.NET hosting. Over **nine years**, I grew it to **more than 62,000 hosted domains and tens of thousands of users**, with full racks of colocated servers across **[two data centers](https://web.archive.org/web/20150321212431/http://www.hostedappliance.net/Hosted-Solutions/Secure-Communications-Appliance)**, before selling the company.
+They're part of a broader effort to make development, automation, and infrastructure more accessible, reliable, and efficient.
 
-iHost was a Microsoft partner, and we exhibited at developer conferences in Las Vegas. Running that business meant taking responsibility for both the technology and the business outcome.
+**I love building technology. I love making businesses better with it. And I believe we're only scratching the surface of what's possible.**
 
-**Historical record:** [iHostASP website, 2005](https://web.archive.org/web/20050421172648/http://www.ihostasp.net:80/) · [DNN / OpenForce, 2008](https://www.dnnsoftware.com/community-blog/cid/136681/of-08-a-valuable-opportunity) · [SmarterTools partnership, 2013](https://www.prweb.com/releases/ihost_llc_partners_with_smarter_tools/prweb11157484.htm) · [Managed email announcement, 2015](https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/secure-e-mail-service-that-is-private-and-encrypted-is-launched-by-428440)
-
-## Crux Experts
-
-Through **[Crux Experts LLC](https://www.cruxexperts.com/)**, I work directly with business owners on custom applications, websites, infrastructure, technology advisory, and practical AI automation. My search and marketing experience helps connect the systems I build with the customers a business needs to reach.
-
-For a public example of our web work, see **[Dr. Oleg V. Kozyuk's scientific research archive](https://okozyuk.com/)**.
-
-**[Explore Crux Experts](https://www.cruxexperts.com/) · [Technology advisory](https://www.cruxexperts.com/services/private-technology-advisory/)**
-
----
-
-© 2026 [Crux Experts LLC](https://www.cruxexperts.com/). All rights reserved.
+[Crux Experts](https://www.cruxexperts.com/) | [Technology Advisory](https://www.cruxexperts.com/services/private-technology-advisory/)
