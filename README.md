@@ -14,7 +14,9 @@ Today, I run **Crux Experts LLC** and build open-source tools for agentic develo
 
 ### 1995 — Building for the commercial web
 
-I began developing websites commercially in 1995. Over the years, my work expanded from HTML and Perl to ASP and ASP.NET as the web became a platform for applications and businesses.
+I began developing websites commercially in 1995, in the era of **Netscape Navigator and early HTML**. As the web grew more interactive, I worked with **JavaScript and Perl**, then moved into **ASP and ASP.NET** as websites became full business applications.
+
+My first experiences with hosting included **OpenBSD servers in university environments**. I was learning how to build for the web and how to keep the underlying servers running—an early connection between software development and infrastructure that has stayed with me throughout my career.
 
 ### From around 2002 — Software that connected business and industrial equipment
 
@@ -27,6 +29,8 @@ We built interfaces, reporting tools, and internal systems around the actual wor
 I founded **iHost ASP / IHOST, LLC** in my bedroom, specializing first in ASP and then ASP.NET web hosting.
 
 Over **nine years**, I grew the business to **more than 62,000 hosted domains and tens of thousands of users**, with full racks of colocated servers across **two data centers**, before selling the company.
+
+For several years, iHost was an **official Microsoft partner**. We exhibited at **Microsoft trade shows in Las Vegas**, with our own booth, representing the hosting business we had built around Microsoft's web technologies.
 
 Running that business meant taking responsibility for the whole operation: the technology, the infrastructure, the customers, and the decisions that kept it working. That experience still shapes how I approach automation, reliability, and recovery.
 
