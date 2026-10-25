@@ -2,11 +2,11 @@
 
 ### From the commercial web in 1995 to the frontier of applied AI.
 
-**Software engineer · Infrastructure operator · Entrepreneur**
+**Software engineer · Infrastructure operator · Marketer · Entrepreneur**
 
 [Crux Experts](https://www.cruxexperts.com/) · [Current projects](#what-im-building-now) · [My background](#from-the-early-web-to-ai)
 
-I build software, operate infrastructure, and turn emerging technology into working business systems. My experience spans early commercial websites, industrial measurement software, corporate intranets, and a hosting company I founded, grew to **more than 62,000 hosted domains across two data centers**, and sold.
+I build software, operate infrastructure, and help businesses get found online. My experience spans early commercial websites, search engine optimization, industrial measurement software, corporate intranets, and a hosting company I founded, grew to **more than 62,000 hosted domains across two data centers**, and sold.
 
 Today, I run **Crux Experts LLC** and build open-source tools for agentic development and systems operations: persistent project context, reusable workflows, AI integrations, configuration management, and recoverable infrastructure.
 
@@ -18,11 +18,17 @@ I began developing websites commercially in 1995, in the era of **Netscape Navig
 
 My first experiences with hosting included **OpenBSD servers in university environments**. I was learning how to build for the web and how to keep the underlying servers running—an early connection between software development and infrastructure that has stayed with me throughout my career.
 
+Alongside development, I built my skills in **search engine optimization before Google existed**. When Google arrived, earning top rankings for my own sites and for clients became a continuing fascination. I approached the web as both an engineer and a marketer: building the system, then understanding how people would find it.
+
 ### From around 2002 — Software that connected business and industrial equipment
 
 As a software engineer at **Mazzella Lifting Technologies**, I developed corporate intranets and custom applications for industrial operations, including software for **load cells, force measurement, and industrial equipment**.
 
 We built interfaces, reporting tools, and internal systems around the actual work. This gave me experience connecting software with physical processes, operational data, and the people responsible for them.
+
+### Around 2005–2006 — Video processing and early YouTube
+
+I was also fascinated by **video processing and editing**. Around 2005–2006, before Google's acquisition of YouTube, I registered an account and began creating and publishing videos on the young platform. It was another way to explore the connection between technology, content, and reaching an audience.
 
 ### iHost — From a bedroom to infrastructure across two data centers
 
@@ -72,7 +78,7 @@ I also build focused utilities such as **[Cinnamon Panel Anchor](https://github.
 
 Through **[Crux Experts LLC](https://www.cruxexperts.com/)**, I work directly with business owners on custom applications, websites, technology advisory, infrastructure, and practical AI and automation. The broader business also supports reputation management and competitive intelligence.
 
-I bring the same experience to client work and open source: understanding the problem, building the system, and making it maintainable.
+I bring an engineer's attention to how a system works and a marketer's attention to how people discover it and understand its value. That combination shapes both my client work and open source: understanding the problem, building the system, and making it useful and maintainable.
 
 For a public example of our web work, see **[Dr. Oleg V. Kozyuk's scientific research archive](https://okozyuk.com/)**, created and hosted by Crux Experts.
 
